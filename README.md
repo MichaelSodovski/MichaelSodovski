@@ -5,8 +5,7 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
   
   
 <h3> What I'm focusing on: </h3>
-<br>
-Currently improving my React & Node.js skills.
+<li> Currently improving my React & Node.js skills.
 
 
 Find me elsewhere 🌎
