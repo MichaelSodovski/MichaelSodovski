@@ -18,7 +18,13 @@
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
 
+<h5> Check out my LinkedIn Profile: </h5>
 <a href="https://www.linkedin.com/in/michael-sodovski-2563a31a0/">
   <img src="https://asougidigital.com/service/img/publicidad-linkedin/linkedin-logo.png" width="200"/>
+</a>
+
+<h5> Check out my Faceook Profile: </h5>
+<a href="https://www.facebook.com/michael.svanidze/">
+  <img src="https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/styles/simple_image/public/images/facebook-logo-stats-2018.png?xnmV_wKuqClXX297l4IsIMmIYZJZrktk&itok=NuRNkmk0" width="200"/>
 </a>
 
