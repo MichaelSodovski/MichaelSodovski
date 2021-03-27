@@ -9,6 +9,12 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <li> Looking for my first position as a FS developer. 
 
 
+
+<h3> My most recent bla bla bla: </h3>
+<li> bla bla bla 
+<li> bla bla bla 
+<li> bla bla bla 
+
 Find me elsewhere 🌎
 <br><br>
 <a href="https://www.linkedin.com/in/michael-sodovski-2563a31a0/">
