@@ -1,4 +1,4 @@
-### Hellow, i'm Michael Sodovski 💪😎 
+### Hello, i'm Michael Sodovski 💪😎 
 
 I am a graduate of bachelor's degree, Industrial & Management Engineering (B.Sc.), Specialization in Projects management.
 Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
