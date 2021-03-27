@@ -22,10 +22,9 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="50" height="50"/>
 <img src="https://i.ytimg.com/vi/ZX7_12fwQLU/maxresdefault.jpg" width="100" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Asp.net.svg" width="100" height="50"/>
-
 <img src="https://image.flaticon.com/icons/png/512/906/906324.png" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50"/>
-<img src="https://image.pngaaa.com/42/95042-middle.png" width="50" height="50"/>
+
 
 <h3> Check out my latest projects: </h3>
 <li> Sportify - 
