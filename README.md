@@ -21,7 +21,7 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <img src="https://seeklogo.net/wp-content/uploads/2016/06/bootstrap-logo-vector-download.jpg" width="50" height="50"/>
 <img src="https://cdn2.vectorstock.com/i/1000x1000/20/31/sql-icon-on-red-vector-4682031.jpg" width="50" height="50"/>
 <br>
-<img src="https://miro.medium.com/max/630/1*SnZqHENpIMiEKsg999Q0DQ.png" width="80" height="50"/>
+<img src="https://lh3.googleusercontent.com/proxy/TDzHh8Py54ZK7Q4jS3Zf7hX8uMi2AT1I--SqdbN-y8AVpdZixrqE2MOeqhV7RjdXOKnk5_z-SYmOz1bwXe63YYwRsF7bpbPTxY0OqHHcOeDx5zWSvbInv7HCbOzopQn_EC68" width="100" height="70"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Asp.net.svg" width="100" height="50"/>
                                                                                                                                   
 <br>
