@@ -6,10 +6,11 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
   
 <h3> What I'm focusing on: </h3>
 <li> Currently improving my React & Node.js skills.
+<li> Looking for my first position as a FS developer. 
 
 
 Find me elsewhere 🌎
-<br>
+<br><br>
 <a href="https://www.linkedin.com/in/michael-sodovski-2563a31a0/">
   <img src="https://asougidigital.com/service/img/publicidad-linkedin/linkedin-logo.png" width="100" height="25"/>
 </a>
