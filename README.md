@@ -1,10 +1,10 @@
 ### Hello, i'm Michael Sodovski 💪
 ![Image](https://i.ibb.co/wWF6C2p/Welcome-To-My-Life-Facebook-Cover-Photo.png) 
-I am a graduate of bachelor's degree, Industrial & Management Engineering (B.Sc.), Specialization in Projects management.
+I am a graduate of bachelor's degree, Industrial & Management Engineering (B.Sc.), Specialization in Projects management,
 Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 
 <h3> About me: </h3>
-<li> I'm a full-stack developer
+<li> I'm a full-stack developer.
 <li> I'm a B.Sc. graduate, Industrial & Management Engineering.
 
 <h3>  Languages and Tools </h3>
