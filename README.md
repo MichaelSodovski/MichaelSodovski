@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, i'm Michael U+1F60E U+1F4AA
 
 <!--
 **MichaelSodovski/MichaelSodovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
