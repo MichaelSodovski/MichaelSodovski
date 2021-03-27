@@ -25,7 +25,7 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 
 <img src="https://image.flaticon.com/icons/png/512/906/906324.png" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50"/>
-<img src="https://www.vhv.rs/dpng/d/571-5718602_transparent-ubuntu-logo-png-logo-postman-icon-png.png" width="50" height="50"/>
+<img src="https://icon-library.com/images/postman-icon/postman-icon-6.jpg" width="50" height="50"/>
 
 <h3> Check out my latest projects: </h3>
 <li> Sportify - 
