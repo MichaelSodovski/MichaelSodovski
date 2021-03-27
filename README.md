@@ -22,6 +22,12 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="50" height="50"/>
 <img src="https://i.ytimg.com/vi/ZX7_12fwQLU/maxresdefault.jpg" width="100" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Asp.net.svg" width="100" height="50"/>
+
+<h3> Check out my latest projects: </h3>
+<li> Sportify - 
+<li> R4W - 
+<li> Covid-19 - 
+  
                                                                                                                                   
 <br>
 <h3> Find me elsewhere 🌎 </h3>
