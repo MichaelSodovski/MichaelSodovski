@@ -15,6 +15,7 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="25" height="25"/>
 <img src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" width="25" height="25"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="25" height="25/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="25" height="25"/>
                                                                                                                                          
 <br><br>
 <h3> Find me elsewhere 🌎 </h3>
