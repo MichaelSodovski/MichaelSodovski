@@ -1,21 +1,21 @@
-<img src="https://mega.nz/file/HwFElbAS#w2dZW7QPrTNp-M_E2hIIds0Lv9P_GQ2h2DWBuP-zFo0"> 
+<img src="https://ibb.co/PhvC4V1">
 
-### Hello, i'm Michael Sodovski 💪😎 
+### Hello, i'm Michael Sodovski 💪😎
 
 I am a graduate of bachelor's degree, Industrial & Management Engineering (B.Sc.), Specialization in Projects management.
 Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
   
-  
+
 <h3> What I'm focusing on: </h3>
 <li> Currently improving my React & Node.js skills.
-<li> Looking for my first position as a FS developer. 
+<li> Looking for my first position as a FS developer.
 
 
 
 <h3> My most recent bla bla bla: </h3>
-<li> bla bla bla 
-<li> bla bla bla 
-<li> bla bla bla 
+<li> bla bla bla
+<li> bla bla bla
+<li> bla bla bla
 
 Find me elsewhere 🌎
 <br><br>
