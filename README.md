@@ -1,4 +1,4 @@
-![Image](https://i.ibb.co/wWF6C2p/Welcome-To-My-Life-Facebook-Cover-Photo.png)
+![Image](https://i.ibb.co/wWF6C2p/Welcome-To-My-Life-Facebook-Cover-Photo.png) 
 
 ### Hello, i'm Michael Sodovski 💪😎
 
