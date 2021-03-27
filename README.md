@@ -23,6 +23,10 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <img src="https://i.ytimg.com/vi/ZX7_12fwQLU/maxresdefault.jpg" width="100" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Asp.net.svg" width="100" height="50"/>
 
+<img src="https://p7.hiclipart.com/preview/190/711/826/microsoft-visual-studio-entity-framework-microsoft-developer-network-asp-net-microsoft-thumbnail.jpg" width="50" height="50"/>
+<img src="https://p7.hiclipart.com/preview/10/877/192/visual-studio-code-microsoft-visual-studio-source-code-editor-c-thumbnail.jpg" width="50" height="50"/>
+<img src="https://www.vhv.rs/dpng/d/571-5718602_transparent-ubuntu-logo-png-logo-postman-icon-png.png" width="50" height="50"/>
+
 <h3> Check out my latest projects: </h3>
 <li> Sportify - 
 <li> R4W - 
