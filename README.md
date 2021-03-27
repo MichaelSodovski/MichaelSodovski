@@ -23,12 +23,9 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <br>
 <img src="https://thecodegarden.blob.core.windows.net/shared/entity-framework.png" width="25" height="25"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Asp.net.svg" width="25" height="25"/>
-
-
-                                                                                                                                         
+                                                                                                                                  
 <br>
 <h3> Find me elsewhere 🌎 </h3>
-<br>
 <a href="https://www.linkedin.com/in/michael-sodovski-2563a31a0/">
   <img src="https://asougidigital.com/service/img/publicidad-linkedin/linkedin-logo.png" width="100" height="25"/>
 </a>
