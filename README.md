@@ -1,4 +1,4 @@
-<img src="C:\Users\micha\Downloads\Downloads\Welcome_To_My_Life_Facebook_Cover_Photo.png" width="100" height="25"/>
+<a src="C:\Users\micha\Downloads\Welcome_To_My_Life_Facebook_Cover_Photo.png"/></a>
 
 ### Hello, i'm Michael Sodovski 💪😎 
 
