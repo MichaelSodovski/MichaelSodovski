@@ -1,11 +1,13 @@
 ### Hellow, i'm Michael Sodovski 💪😎 
 
-  I´m based in Ashdod, Israel.
+I am a graduate of bachelor's degree, Industrial & Management Engineering (B.Sc.), Specialization in Projects management.
+Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
   
   
 <h3> What I'm focusing on: </h3>
 <br>
-- ![](https://placehold.it/15/f03c15/000000?text=+)
+Currently improving my React & Node.js skills.
+
 
 Find me elsewhere 🌎
 <br><br>
