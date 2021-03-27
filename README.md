@@ -19,5 +19,6 @@
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
 
 <a href="https://www.linkedin.com/in/michael-sodovski-2563a31a0/">
-  <img src="https://asougidigital.com/service/img/publicidad-linkedin/linkedin-logo.png" style="width=100px;"/>
+  <img src="https://asougidigital.com/service/img/publicidad-linkedin/linkedin-logo.png"/>
 </a>
+
