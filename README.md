@@ -19,8 +19,8 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <img src="https://www.logolynx.com/images/logolynx/b9/b967def9bc01aa73793b9970b658e4b0.jpeg" width="25" height="25"/>
 <img src="https://seeklogo.net/wp-content/uploads/2016/06/bootstrap-logo-vector-download.jpg" width="25" height="25"/>
 <img src="https://w7.pngwing.com/pngs/173/151/png-transparent-sql-for-dummies-sql-all-in-one-for-dummies-database-development-for-dummies-amazon-com-book-text-logo-amazoncom.png" width="25" height="25"/>
-<img src="https://cdn.auth0.com/blog/native-csharp/logo.png" width="25" height="25"/>
-<img src="https://cdn.auth0.com/blog/native-csharp/logo.png" width="25" height="25"/>
+<img src="https://thecodegarden.blob.core.windows.net/shared/entity-framework.png" width="25" height="25"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Asp.net.svg" width="25" height="25"/>
 
 
                                                                                                                                          
