@@ -24,7 +24,7 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Asp.net.svg" width="100" height="50"/>
 <img src="https://image.flaticon.com/icons/png/512/906/906324.png" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50"/>
-<img src="https://img.favpng.com/15/5/8/microsoft-sql-server-microsoft-corporation-sql-server-management-studio-database-png-favpng-fesa5qfDVGS0mdHRzny87Z3iK.jpg" width="50" height="50"/>
+<img src="https://cdn.imgbin.com/2/23/2/imgbin-microsoft-sql-server-computer-servers-database-microsoft-NWY05qPi2QY8uMx1HwWQyVYQP.jpg" width="50" height="50"/>
 
 
 <h3> Check out my latest projects: </h3>
