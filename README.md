@@ -7,7 +7,6 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 
 <h3> About me: </h3>
 <li> I'm a full-stack developer
-<li> I make apps for Web browsers
 <li> I'm a B.Sc. graduate, Industrial & Management Engineering.
 
 <h3>  Languages and Tools </h3>
