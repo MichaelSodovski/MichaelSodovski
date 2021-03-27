@@ -1,4 +1,4 @@
-![alt text](C:\Users\micha\Downloads\Welcome_To_My_Life_Facebook_Cover_Photo.png)
+![alt text](https://mega.nz/file/HwFElbAS#w2dZW7QPrTNp-M_E2hIIds0Lv9P_GQ2h2DWBuP-zFo0) 
 
 ### Hello, i'm Michael Sodovski 💪😎 
 
