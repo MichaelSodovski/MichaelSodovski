@@ -24,6 +24,6 @@ Find me elsewhere 🌎
   <img src="https://asougidigital.com/service/img/publicidad-linkedin/linkedin-logo.png" width="100"/>
 </a>
 <a href="https://www.facebook.com/michael.svanidze/">
-  <img src="https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/styles/simple_image/public/images/facebook-logo-stats-2018.png?xnmV_wKuqClXX297l4IsIMmIYZJZrktk&itok=NuRNkmk0" width="100" height="53"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/768px-Facebook_New_Logo_%282015%29.svg.png" width="100" />
 </a>
 
