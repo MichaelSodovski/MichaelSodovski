@@ -1,4 +1,4 @@
-<a src="C:\Users\micha\Downloads\Welcome_To_My_Life_Facebook_Cover_Photo.png"/></a>
+![alt text](C:\Users\micha\Downloads\Welcome_To_My_Life_Facebook_Cover_Photo.png)
 
 ### Hello, i'm Michael Sodovski 💪😎 
 
