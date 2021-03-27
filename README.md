@@ -1,3 +1,5 @@
+<img src="C:\Users\micha\Downloads\Downloads\Welcome_To_My_Life_Facebook_Cover_Photo.png" width="100" height="25"/>
+
 ### Hello, i'm Michael Sodovski 💪😎 
 
 I am a graduate of bachelor's degree, Industrial & Management Engineering (B.Sc.), Specialization in Projects management.
