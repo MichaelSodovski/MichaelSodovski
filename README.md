@@ -24,7 +24,7 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50"/>
 <img src="https://seniordba.files.wordpress.com/2015/05/sqlserver.jpg?w=640" width="100" height="50"/>
 <h3>  I'm currently learning: </h3>
-<img src="https://lh3.googleusercontent.com/proxy/44_1zP5OyfjpcrCYCnj0V4ouAxIeHUUM3PWRq0xkkIFvkeR0uFsEEJgWMsdrPSGhIYrneDxv3oklQnO77X2G3BuX5IOy-nHqD7BBs7mHMcFdE9Kwn6feRO3wds8VCbVXhi-Jz9rz5pzcDa3qrFsFKoMOBQ" width="100" height="50"/>
+<img src="https://lh3.googleusercontent.com/proxy/M8UO4en5vyN8DR7nze-PIfkT5fMqtuKZw3ehgN79accOifFVhtuMwHRBuDSeC1BjhmXkR3d0EijlcE88k7EJ5z0dA0Twb2LrynpsCyyPzgBp8W9zddWOTrUQtFF4l63kqCi8vOPdWyFxHr7pX9e8TXrlWg" width="100" height="50"/>
 <img src="https://img.17qq.com/images/mhngpgqwpsy.jpeg" width="100" height="50"/>
 
 <h3> Latest projects: </h3>
