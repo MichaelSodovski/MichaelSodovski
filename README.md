@@ -83,7 +83,6 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
   <img src="https://us.123rf.com/450wm/nicousnake/nicousnake2004/nicousnake200401182/146115306-new-coronavirus-covid-19-concept-design-logo-vector-illustration.jpg?ver=6" width="50" height="50"/>
 </a> 
 <hr>                                                                                                                   
-<br>
 <h3> Connect with me 🌎 </h3>
 <a href="https://www.linkedin.com/in/michael-sodovski-2563a31a0/">
   <img src="https://asougidigital.com/service/img/publicidad-linkedin/linkedin-logo.png" width="100" height="25"/>
