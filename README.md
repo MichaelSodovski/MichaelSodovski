@@ -50,8 +50,7 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
   <img src="https://cdn2.vectorstock.com/i/1000x1000/54/16/red-round-with-black-shadow-white-dumbbell-icon-vector-12865416.jpg" width="50" height="50"/>
 </a>                                        
 
-<li> 2) Leasing company website Project ("Rent-Four-Wheels")
-<br>
+<h4> 2) Leasing company website Project ("Rent-Four-Wheels") </h4>
 <h4> Technologies: <h4>
 <h6> Client-side technologies: </h6>
 <li> HTML 
