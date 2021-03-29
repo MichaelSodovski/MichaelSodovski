@@ -9,20 +9,20 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 
 <h3>  Programming languages & frameworks: </h3>
 <img src="https://i.ibb.co/SrPWvDK/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469-Java-Script.png" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="50" height="50"/>
+<img src="https://i.ibb.co/R7pH0RJ/Type-Script.png" width="50" height="50"/>
 <img src="https://i.ibb.co/QfjSb5p/Angular.png" width="50" height="50"/>
 <img src="https://i.ibb.co/D1HzXyL/NETCore.png" width="50" height="50"/>
 <img src="https://i.ibb.co/nCg1qpt/HTML.png" width="50" height="50"/>
 <img src="https://i.ibb.co/WW9nMRT/CSS.png" width="50" height="50"/>
 <img src="https://i.ibb.co/p21K8GL/Boot-Strap.png" width="50" height="50"/>
-<img src="https://cdn2.vectorstock.com/i/1000x1000/20/31/sql-icon-on-red-vector-4682031.jpg" width="50" height="50"/>
+<img src="https://i.ibb.co/pRD65FV/SQL.jpg" width="50" height="50"/>
 <img src="https://i.ibb.co/8zPkmwJ/Csharp.png" width="50" height="50"/>
 <img src="https://i.ibb.co/t25R50d/Entity-Frame-Work.jpg" width="100" height="50"/>
 <img src="https://i.ibb.co/Mh0jXZJ/ASPNET.jpg" width="100" height="50"/>
 <h3> Programming Tools: </h3>
 <img src="https://image.flaticon.com/icons/png/512/906/906324.png" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50"/>
-<img src="https://seniordba.files.wordpress.com/2015/05/sqlserver.jpg?w=640" width="100" height="50"/>
+<img src="https://i.ibb.co/LnNQVHj/Sql-Server.jpg" width="100" height="50"/>
 <h3>  I'm currently learning: </h3>
 <img src="https://i.ibb.co/HPVRBsS/React.png" width="100" height="50"/>
 <img src="https://i.ibb.co/7YRQjNK/Node.png" width="100" height="50"/>
