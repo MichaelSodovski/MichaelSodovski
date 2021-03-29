@@ -49,7 +49,7 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
   <a href="https://github.com/MichaelSodovski/Sportify">
   <img src="https://cdn2.vectorstock.com/i/1000x1000/54/16/red-round-with-black-shadow-white-dumbbell-icon-vector-12865416.jpg" width="50" height="50"/>
 </a>                                        
-
+<hr>
 <h4> 2) Leasing company website Project ("Rent-Four-Wheels") </h4>
 <h5> Technologies: <h5>
 <h6> Client-side technologies: </h6>
