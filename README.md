@@ -1,4 +1,4 @@
-### Hello, i'm Michael Sodovski 💪
+### Hello, I'm Michael Sodovski 💪
 ![Image](https://i.ibb.co/wWF6C2p/Welcome-To-My-Life-Facebook-Cover-Photo.png) 
 I am a graduate of bachelor's degree, Industrial & Management Engineering (B.Sc.), Specialization in Projects management,
 Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
@@ -27,8 +27,8 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <img src="https://lh3.googleusercontent.com/proxy/M8UO4en5vyN8DR7nze-PIfkT5fMqtuKZw3ehgN79accOifFVhtuMwHRBuDSeC1BjhmXkR3d0EijlcE88k7EJ5z0dA0Twb2LrynpsCyyPzgBp8W9zddWOTrUQtFF4l63kqCi8vOPdWyFxHr7pX9e8TXrlWg" width="100" height="50"/>
 <img src="https://img.17qq.com/images/mhngpgqwpsy.jpeg" width="100" height="50"/>
 
-<h3> Latest projects: </h3>
-<li> Sportify: A fitness app. (currently in development)
+<h4> Latest projects: </h4>
+<h3> Sportify: A fitness app. (currently in development) </h3>
 <br>
 <h4> Technologies: <h4>
 <h6> Client-side technologies: </h6>
