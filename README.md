@@ -8,7 +8,7 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <li> I'm a B.Sc. graduate, Industrial & Management Engineering.
 
 <h3>  Programming languages & frameworks: </h3>
-<img src="https://miro.medium.com/max/816/1*TpbxEQy4ckB-g31PwUQPlg.png" width="50" height="50"/>
+<img src="https://i.ibb.co/SrPWvDK/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469-Java-Script.png" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="50" height="50"/>
 <img src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="50" height="50"/>
