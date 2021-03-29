@@ -28,7 +28,7 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <img src="https://img.17qq.com/images/mhngpgqwpsy.jpeg" width="100" height="50"/>
 
 <h3> Latest projects: </h3>
-<h4> <h3>Project</h3> - Sportify: A fitness app. (currently in development) </h4>
+<h4> Sportify: A fitness app. (currently in development) </h4>
 <h5> Technologies: <h5>
 <h6> Client-side technologies: </h6>
 <li> HTML 
