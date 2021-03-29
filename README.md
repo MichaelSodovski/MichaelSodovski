@@ -26,7 +26,7 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <h3>  I'm currently learning: </h3>
 <img src="https://lh3.googleusercontent.com/proxy/M8UO4en5vyN8DR7nze-PIfkT5fMqtuKZw3ehgN79accOifFVhtuMwHRBuDSeC1BjhmXkR3d0EijlcE88k7EJ5z0dA0Twb2LrynpsCyyPzgBp8W9zddWOTrUQtFF4l63kqCi8vOPdWyFxHr7pX9e8TXrlWg" width="100" height="50"/>
 <img src="https://img.17qq.com/images/mhngpgqwpsy.jpeg" width="100" height="50"/>
-
+<hr>
 <h3> Latest projects: </h3>
 <h4> 1) "Sportify" Project: A fitness app. (currently in development) </h4>
 <h5> Technologies: <h5>
@@ -74,7 +74,7 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
   <img src="https://www.pngjoy.com/pngm/335/6264198_vehicle-icon-car-icon-small-circle-transparent-png.png" width="50" height="50"/>
 </a> 
 <br>
-
+<hr>
 <h4> Covid-19 Project: Coronavirus (COVID-19) information hub. </h4>
 <h4> Technologies: <h4>
 <li> JavaScript.
@@ -82,7 +82,7 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <a href="https://github.com/MichaelSodovski/Covid19-CoronaVirus">
   <img src="https://us.123rf.com/450wm/nicousnake/nicousnake2004/nicousnake200401182/146115306-new-coronavirus-covid-19-concept-design-logo-vector-illustration.jpg?ver=6" width="50" height="50"/>
 </a> 
-                                                                                                                                  
+<hr>                                                                                                                   
 <br>
 <h3> Connect with me 🌎 </h3>
 <a href="https://www.linkedin.com/in/michael-sodovski-2563a31a0/">
