@@ -11,7 +11,7 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <img src="https://i.ibb.co/SrPWvDK/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469-Java-Script.png" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="50" height="50"/>
 <img src="https://i.ibb.co/QfjSb5p/Angular.png" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="50" height="50"/>
+<img src="https://i.ibb.co/D1HzXyL/NETCore.png" width="50" height="50"/>
 <img src="https://i.ibb.co/nCg1qpt/HTML.png" width="50" height="50"/>
 <img src="https://i.ibb.co/WW9nMRT/CSS.png" width="50" height="50"/>
 <img src="https://i.ibb.co/p21K8GL/Boot-Strap.png" width="50" height="50"/>
@@ -24,8 +24,8 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50"/>
 <img src="https://seniordba.files.wordpress.com/2015/05/sqlserver.jpg?w=640" width="100" height="50"/>
 <h3>  I'm currently learning: </h3>
-<img src="https://lh3.googleusercontent.com/proxy/M8UO4en5vyN8DR7nze-PIfkT5fMqtuKZw3ehgN79accOifFVhtuMwHRBuDSeC1BjhmXkR3d0EijlcE88k7EJ5z0dA0Twb2LrynpsCyyPzgBp8W9zddWOTrUQtFF4l63kqCi8vOPdWyFxHr7pX9e8TXrlWg" width="100" height="50"/>
-<img src="https://img.17qq.com/images/mhngpgqwpsy.jpeg" width="100" height="50"/>
+<img src="https://i.ibb.co/HPVRBsS/React.png" width="100" height="50"/>
+<img src="https://i.ibb.co/7YRQjNK/Node.png" width="100" height="50"/>
 <hr>
 <h3> Latest projects: </h3>
 <h4> 1) "Sportify" Project: A fitness app. (currently in development) </h4>
