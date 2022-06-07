@@ -24,7 +24,7 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <img src="https://i.ibb.co/cNd6JhZ/Visual-Studio-Code.png" width="50" height="50"/>
 <img src="https://i.ibb.co/BggNGCW/Visual-Studio.png" width="50" height="50"/>
 <img src="https://i.ibb.co/LnNQVHj/Sql-Server.jpg" width="100" height="50"/>
-  <img src="https://i.ibb.co/HPVRBsS/React.png" width="100" height="50"/>
+<img src="[https://i.ibb.co/HPVRBsS/React.png](https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg)" width="100" height="50"/>
 <h3>  I'm currently learning: </h3>
 <img src="https://i.ibb.co/7YRQjNK/Node.png" width="100" height="50"/>
 <hr>
