@@ -12,9 +12,6 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <img src="https://i.ibb.co/R7pH0RJ/Type-Script.png" width="50" height="50"/>
 <img src="https://i.ibb.co/QfjSb5p/Angular.png" width="50" height="50"/>
 <img src="https://i.ibb.co/D1HzXyL/NETCore.png" width="50" height="50"/>
-<img src="https://i.ibb.co/nCg1qpt/HTML.png" width="50" height="50"/>
-<img src="https://i.ibb.co/WW9nMRT/CSS.png" width="50" height="50"/>
-<img src="https://i.ibb.co/p21K8GL/Boot-Strap.png" width="50" height="50"/>
 <img src="https://i.ibb.co/pRD65FV/SQL.jpg" width="50" height="50"/>
 <img src="https://i.ibb.co/8zPkmwJ/Csharp.png" width="50" height="50"/>
 <img src="https://i.ibb.co/t25R50d/Entity-Frame-Work.jpg" width="100" height="50"/>
