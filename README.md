@@ -20,33 +20,28 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <img src="https://i.ibb.co/t25R50d/Entity-Frame-Work.jpg" width="100" height="50"/>
 <img src="https://i.ibb.co/Mh0jXZJ/ASPNET.jpg" width="100" height="50"/>
 <img src="https://i.ibb.co/HPVRBsS/React.png" width="100" height="50"/>
+  <img src="https://i.ibb.co/7YRQjNK/Node.png" width="100" height="50"/>
 <h3> Programming Tools: </h3>
 <img src="https://i.ibb.co/cNd6JhZ/Visual-Studio-Code.png" width="50" height="50"/>
 <img src="https://i.ibb.co/BggNGCW/Visual-Studio.png" width="50" height="50"/>
 <img src="https://i.ibb.co/LnNQVHj/Sql-Server.jpg" width="100" height="50"/>
 <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="100" height="50"/>
 <img src="https://icon-library.com/images/postman-icon/postman-icon-6.jpg" width="50" height="50"/>
-<h3>  I'm currently learning: </h3>
-<img src="https://i.ibb.co/7YRQjNK/Node.png" width="100" height="50"/>
 <hr>
-<h3> Latest projects: </h3>
-<h4> 1) "Sportify" Project: A fitness app. (currently in development) </h4>
 <h5> Technologies: <h5>
 <h6> Client-side technologies: </h6>
-<li> HTML 
-<li> CSS
 <li> JavaScript
-<li> Angular
 <li> TypeScript
-<li> Redux.
+<li> Angular
+<li> React
 <h6> Server-side technologies: </h6>
-<li> SQL Server
 <li> .NET framework
-<li> C#
+<li> Node.js
 <h6> Libraries: </h6>
 <li> Bootstrap
 <li> Angular material
 <li> NG-Bootstrap
+<li> Redux
 &thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;
   <a href="https://github.com/MichaelSodovski/Sportify">
   <img src="https://cdn2.vectorstock.com/i/1000x1000/54/16/red-round-with-black-shadow-white-dumbbell-icon-vector-12865416.jpg" width="50" height="50"/>
