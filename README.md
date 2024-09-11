@@ -10,7 +10,6 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <h3>  Programming languages & frameworks: </h3>
 <img src="https://i.ibb.co/SrPWvDK/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469-Java-Script.png" width="50" height="50"/>
 <img src="https://i.ibb.co/R7pH0RJ/Type-Script.png" width="50" height="50"/>
-<img src="https://i.ibb.co/QfjSb5p/Angular.png" width="50" height="50"/>
 <img src="https://i.ibb.co/D1HzXyL/NETCore.png" width="50" height="50"/>
 <img src="https://i.ibb.co/pRD65FV/SQL.jpg" width="50" height="50"/>
 <img src="https://i.ibb.co/8zPkmwJ/Csharp.png" width="50" height="50"/>
@@ -25,12 +24,10 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <img src="https://icon-library.com/images/postman-icon/postman-icon-6.jpg" width="50" height="50"/>
 <hr>
 <h5> Technologies: <h5>
-<h6> Client-side technologies: </h6>
 <li> JavaScript
-<li> TypeScript
 <li> React
-<h6> Server-side technologies: </h6>
 <li> .NET
+<li> C#
 
 <hr>                                                                                                                   
 <h3> Connect with me 🌎 </h3>
