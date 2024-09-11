@@ -4,7 +4,7 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
 
 <h3> About me: </h3>
 <li> I'm a full-stack developer.
-<li> I'm a B.Sc. graduate, Industrial & Management Engineering.
+<li> I hold a B.Sc. graduate, Industrial & Management Engineering.
 
 <h3>  Programming languages & frameworks: </h3>
 <img src="https://i.ibb.co/SrPWvDK/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469-Java-Script.png" width="50" height="50"/>
