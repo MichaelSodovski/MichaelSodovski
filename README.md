@@ -15,8 +15,6 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
 <img src="https://i.ibb.co/cNd6JhZ/Visual-Studio-Code.png" width="50" height="50"/>
 <img src="https://i.ibb.co/BggNGCW/Visual-Studio.png" width="50" height="50"/>
 <img src="https://i.ibb.co/LnNQVHj/Sql-Server.jpg" width="100" height="50"/>
-<img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="100" height="50"/>
-<img src="https://icon-library.com/images/postman-icon/postman-icon-6.jpg" width="50" height="50"/>
 <hr>
 <h5> Technologies: <h5>
 <li> JavaScript
