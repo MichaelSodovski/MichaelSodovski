@@ -28,16 +28,9 @@ Since 2020 i'm also a Junior Full-Stack Developer, I´m based in Ashdod, Israel.
 <h6> Client-side technologies: </h6>
 <li> JavaScript
 <li> TypeScript
-<li> Angular
 <li> React
 <h6> Server-side technologies: </h6>
 <li> .NET
-<li> Node.js
-<h6> Libraries: </h6>
-<li> Bootstrap
-<li> Angular material
-<li> NG-Bootstrap
-<li> Redux
 
 <hr>                                                                                                                   
 <h3> Connect with me 🌎 </h3>
