@@ -1,6 +1,6 @@
 ### Hello, I'm Michael Sodovski
 ![Image](https://i.ibb.co/wWF6C2p/Welcome-To-My-Life-Facebook-Cover-Photo.png) 
-I hold a B.Sc. in Industrial & Management Engineering, specializing in Project Management. Since 2022, I’ve been working as a Full-Stack Developer, based in Ashdod, Israel.
+I hold a B.Sc. in Industrial & Management Engineering, specializing in Project Management. Since 2022 I’ve been working as a Full-Stack Developer.
 
 <h3> About me: </h3>
 <li> I'm a full-stack developer.
