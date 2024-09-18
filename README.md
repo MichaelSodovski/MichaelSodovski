@@ -7,7 +7,20 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
 <li> I hold a B.Sc. graduate, Industrial & Management Engineering.
 
 <h3>  Programming languages & frameworks: </h3>
-<img src="https://i.ibb.co/SrPWvDK/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469-Java-Script.png" width="50" height="50"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/a8/Microsoft_SQL_Server_logo.png" alt="SQL Server" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+</p>
+
 <img src="https://i.ibb.co/D1HzXyL/NETCore.png" width="50" height="50"/>
 <img src="https://i.ibb.co/8zPkmwJ/Csharp.png" width="50" height="50"/>
 <img src="https://i.ibb.co/HPVRBsS/React.png" width="100" height="50"/>
@@ -15,12 +28,7 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
 <img src="https://i.ibb.co/cNd6JhZ/Visual-Studio-Code.png" width="50" height="50"/>
 <img src="https://i.ibb.co/BggNGCW/Visual-Studio.png" width="50" height="50"/>
 <img src="https://i.ibb.co/LnNQVHj/Sql-Server.jpg" width="100" height="50"/>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-</p>
+
 <hr>
 <h5> Technologies: <h5>
 <li> JavaScript
