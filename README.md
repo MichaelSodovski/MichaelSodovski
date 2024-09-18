@@ -37,11 +37,7 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
 </a>
 <hr>           
 
-<div class="connect-with-me-container" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px;">
-  <h3 style="margin: 0; display: flex; align-items: center;">Connect with me</h3>
-  <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/country-location-icon.svg" width="25" height="25" alt="Globe Icon" />
-</div>
-
+<h3> Connect with me </h3>
 <div class="sources-container" style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 100px;">
 <a href="mailto: michaelsod90@gmail.com" style="text-decoration: none;">
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/gmail-icon.svg" width="100" height="25" style="border: none; text-decoration: none;" />
