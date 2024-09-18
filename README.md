@@ -26,7 +26,7 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
 </p>
 
 <p align="left"> 
-  <img src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/file-sql-color-red-icon.svg" alt="SQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
 </p> 
   
