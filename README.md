@@ -31,7 +31,7 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
 </p> 
 
 <hr>
-<h3> Brand Page on Linkdin </h3>
+<h3> Brand Page on Linkedin </h3>
 <a href="https://www.linkedin.com/company/emenes-dev/">
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/mns-cover.png" width="100%" height="100%"/>
 </a>
@@ -41,7 +41,7 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 100px;">
   </a>
   <a href="mailto:michaelsod90@gmail.com" style="text-decoration: none;">
-  <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/gmail-icon.svg" width="100" height="25" style="border: none; text-decoration: none;" />
+  <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/gmail-icon.svg" width="25" height="25" style="border: none; text-decoration: none;" />
   </a>
   
 <a href="https://www.linkedin.com/in/michael-sodovski-2563a31a0/" style="text-decoration: none;">
