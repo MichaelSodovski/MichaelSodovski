@@ -37,7 +37,7 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
 <hr>           
 
 <h3> Connect with me <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/country-location-icon.svg" width="25" height="25"/> </h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 50px;">
 <a href="https://www.linkedin.com/in/michael-sodovski-2563a31a0/">
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/linkedin-app-icon.svg" width="100" height="25"/>
 </a>
