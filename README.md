@@ -13,12 +13,12 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Nodejs" width="40" height="40"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg](https://path-to-your-svg-file/icon.svg](https://github.com/MichaelSodovski/svg-icon-library/blob/main/node-js-icon.svg)" alt="Node.js" width="40" height="40"/>
 
 
 </p>
 
-![Node.js]([https://path-to-your-svg-file/icon.svg](https://github.com/MichaelSodovski/svg-icon-library/blob/main/node-js-icon.svg))
 
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
