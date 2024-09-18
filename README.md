@@ -23,7 +23,7 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
 </p>
 
 <p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="40" height="40"/>
 </p> 
 
 
