@@ -37,7 +37,7 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
 </a>
 <hr>           
 
-<div class="connect-with-me-container" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div class="connect-with-me-container" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px;">
   <h3 style="margin: 0;">Connect with me</h3>
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/country-location-icon.svg" width="25" height="25" alt="Globe Icon" />
 </div>
