@@ -15,25 +15,22 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node.js" width="40" height="40"/>
 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   
 </p>
-
-<img src="https://i.ibb.co/D1HzXyL/NETCore.png" width="50" height="50"/>
-<img src="https://i.ibb.co/8zPkmwJ/Csharp.png" width="50" height="50"/>
-<img src="https://i.ibb.co/HPVRBsS/React.png" width="100" height="50"/>
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  </p>
+  
 <h3> Programming Tools: </h3>
 <img src="https://i.ibb.co/cNd6JhZ/Visual-Studio-Code.png" width="50" height="50"/>
 <img src="https://i.ibb.co/BggNGCW/Visual-Studio.png" width="50" height="50"/>
-<img src="https://i.ibb.co/LnNQVHj/Sql-Server.jpg" width="100" height="50"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
 
 <hr>
 <h5> Technologies: <h5>
