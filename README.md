@@ -18,6 +18,8 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
 
 </p>
 
+![Node.js]([https://path-to-your-svg-file/icon.svg](https://github.com/MichaelSodovski/svg-icon-library/blob/main/node-js-icon.svg))
+
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
