@@ -40,7 +40,6 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
 <h3> Connect with me <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/country-location-icon.svg" width="25" height="25"/> </h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 100px;">
   </a>
-  <a href="mailto:michaelsod90@gmail.com" style="text-decoration: none;">
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/gmail-icon.svg" width="25" height="25" style="border: none; text-decoration: none;" />
   </a>
   
