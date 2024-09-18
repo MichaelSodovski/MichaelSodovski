@@ -60,4 +60,7 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
 <a href="https://dev.to/emenes">
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/dev-community-icon.svg" width="100" height="25" style="border: none; text-decoration: none;" />
 </a>
+  <a href="mailto:michaelsod90@gmail.com" style="text-decoration: none;">
+  <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/gmail-icon.svg" width="100" height="25" style="border: none; text-decoration: none;" />
+</a>
 </div>
