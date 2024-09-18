@@ -1,5 +1,5 @@
 ### Hello, I'm Michael Sodovski
-![Image](https://i.ibb.co/wWF6C2p/Welcome-To-My-Life-Facebook-Cover-Photo.png) 
+![Image](https://github.com/MichaelSodovski/svg-icon-library/blob/main/video_full.gif) 
 I hold a B.Sc. in Industrial & Management Engineering, specializing in Project Management. Since 2022 I’ve been working as a Full-Stack Developer.
 
 <h3> About me: </h3>
