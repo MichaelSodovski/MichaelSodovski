@@ -31,8 +31,8 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
 </p> 
 
 <hr>
-<a href="https://www.linkedin.com/in/michael-sodovski-2563a31a0/">
-  <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/mns-cover.png" width="85%" height="100%"/>
+<a href="https://www.linkedin.com/company/emenes-dev/">
+  <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/mns-cover.png" width="100%" height="100%"/>
 </a>
 <hr>           
 
