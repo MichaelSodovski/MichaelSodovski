@@ -32,12 +32,8 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
-  </p>
+</p>
   
-<h3> Programming Tools: </h3>
-<img src="https://i.ibb.co/cNd6JhZ/Visual-Studio-Code.png" width="50" height="50"/>
-<img src="https://i.ibb.co/BggNGCW/Visual-Studio.png" width="50" height="50"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
 
 <hr>
 <h5> Technologies: <h5>
