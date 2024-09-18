@@ -55,3 +55,9 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
 <a href="https://www.reddit.com/user/michasv/">
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/reddit-icon.svg" width="100" height="25" />
 </a>
+<a href="https://www.instagram.com/sodovski/">
+  <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/ig-instagram-icon.svg" width="100" height="25" />
+</a>
+<a href="https://dev.to/emenes">
+  <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/dev-community-icon.svg" width="100" height="25" />
+</a>
