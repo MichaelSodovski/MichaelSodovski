@@ -46,4 +46,7 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
 <a href="https://www.facebook.com/michael.svanidze/">
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/facebook-round-color-icon.svg" width="100" height="25" />
 </a>
+<a href="https://wa.me/+9725363400">
+  <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/whatsapp-color-icon.svg" width="100" height="25" />
+</a>
 
