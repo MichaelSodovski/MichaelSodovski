@@ -14,22 +14,13 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/node-js-icon.svg" alt="Node.js" width="40" height="40"/>
-</p>
-
-<p align="left"> 
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/python-original.svg" alt="Python" width="40" height="40"/>
-</p>
-
-<p align="left"> 
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/Microsoft_.NET_logo.svg.png" alt=".NET" width="40" height="40"/>
-</p>
-
-<p align="left"> 
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/file-sql-color-red-icon.svg" alt="SQL" width="40" height="40"/>
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/oracle-icon.svg" alt="Oracle" width="40" height="40"/>
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/server-m-studio.svg" alt="SqlServer" width="40" height="40"/>
-</p> 
+</p>
 
 <hr>
 <h3> Brand Page on Linkedin </h3>
