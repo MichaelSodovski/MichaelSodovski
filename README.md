@@ -22,6 +22,9 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/server-m-studio.svg" alt="SqlServer" width="40" height="40"/>
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/REDUX-SVG.svg" alt="Redux" width="40" height="40"/>
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/Postman.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/visual-studio.svg" alt="visual" width="40" height="40"/>
+  <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/visual-studio-code.svg" alt="code" width="40" height="40"/>
+  <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/pycharm.svg" alt="pycharm" width="40" height="40"/>
 </p>
 
 <hr>
