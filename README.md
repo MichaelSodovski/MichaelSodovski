@@ -6,7 +6,7 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
 <li> I'm a full-stack developer.
 <li> I hold a B.Sc. graduate, Industrial & Management Engineering.
 
-<h3>  Programming languages & frameworks: </h3>
+<h3>  The tools that I use: </h3>
 <p align="left">
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/css3-original.svg" alt="CSS3" width="40" height="40"/>
