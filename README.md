@@ -28,12 +28,7 @@ I hold a B.Sc. in Industrial & Management Engineering, specializing in Project M
 </p>
 
 <hr>
-<h3> Brand Page on Linkedin </h3>
-<a href="https://www.linkedin.com/company/101406761">
-  <img src="https://github.com/MichaelSodovski/svg-icon-library/blob/main/mns-cover-animated.gif" width="100%" height="100%"/>
-</a>
-<hr>           
-
+          
 <h3> Connect with me </h3>
 <div class="sources-container" style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 100px;">
 <a href="mailto: michaelsod90@gmail.com" style="text-decoration: none;">
